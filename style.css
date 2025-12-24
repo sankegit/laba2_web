@@ -109,7 +109,7 @@ body {
   height: 325px;
 }
 
-.overlay, .overlay-initial {
+.overlay {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -122,10 +122,6 @@ body {
 }
 
 .overlay {
-  opacity: 0;
-}
-
-.overlay-initial {
   opacity: 0.8;
 }
 
