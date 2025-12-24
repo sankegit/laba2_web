@@ -203,7 +203,7 @@ body {
   background-color: rgb(57, 52, 52);;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1064px) {
   .container, .container-contact, .container-footer, .a-style {
     flex-direction: column;
   }
@@ -219,7 +219,7 @@ body {
     align-self: flex-end;
   }
   .container-logo {
-    width: 45%;
+    width: 25%;
   }
   .container-items {
     width: 60%;
